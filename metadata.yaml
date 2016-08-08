@@ -1,0 +1,25 @@
+_repo: The-Camp-Fire-Girls-at-Long-Lake--Or-Bessie-King-in-Summer-Camp_12091
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stewart, Jane L.
+    alias: Stewart, J. L. (Jane L.)
+    gutenberg_agent_id: '4221'
+    url: http://www.gutenberg.org/2009/agents/4221
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12091'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Camping -- Juvenile fiction'
+- !lcsh 'Camp Fire Girls -- Juvenile fiction'
+- GITenberg
+title: The Camp Fire Girls at Long Lake; Or, Bessie King in Summer Camp
+url: http://www.gutenberg.org/ebooks/12091
